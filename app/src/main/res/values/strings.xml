@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ComponentesBasicos</string>
+    <string name="labelName">Nome</string>
+    <string name="editName" />
+    <string name="btnRegister">Registrar</string>
+    <string name="btnList">Listar</string>
+    <string name="labelCourse">Curso</string>
+    <string name="editCourse" />
+    <string name="btnViewRegister">Registrar</string>
+    <string name="edtCourse" />
+    <string name="btnTggEnable">Habilitar</string>
+    <string name="btnHome">Inicio</string>
+    <string name="btnViewFeedback">Comentários</string>
+    <string name="autoCompleteCourse" />
+    <string name="labelUnidad">Campus</string>
+</resources>

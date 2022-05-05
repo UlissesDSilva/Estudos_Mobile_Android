@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--    <item android:id="@+id/add"-->
+<!--        android:title="Adicionar"-->
+<!--        android:icon="@drawable/ic_action_add2"-->
+<!--        app:showAsAction="ifRoom"/>-->
+
+    <item android:id="@+id/homeItem"
+        android:title="Inicio"
+        android:icon="@drawable/ic_action_home"
+        app:showAsAction="ifRoom"/>
+
+<!--    <item android:id="@+id/edit"-->
+<!--        android:title="Atualizar"-->
+<!--        android:icon="@drawable/ic_action_update2"-->
+<!--        app:showAsAction="ifRoom"/>-->
+
+    <item android:id="@+id/delete"
+        android:title="Remover"
+        android:icon="@drawable/ic_action_delite2"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/config"
+        android:title="Configurações" />
+
+    <item android:id="@+id/about"
+        android:title="Sobre" />
+
+</menu>
